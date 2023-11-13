@@ -1,0 +1,31 @@
+{
+  "name": "react-perfect-paginate",
+  "version": "1.0.1",
+  "description": "This is a pagination system, made using vanilla javascript. No frontend included.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arifkhan-silicornya/react-perfect-pagination.git"
+  },
+  "keywords": [
+    "paginate",
+    "pagination",
+    "react-paginate",
+    "react-pagination",
+    "react-perfect-pagination",
+    "react-perfect-paginate",
+    "paginate-vanilla-js",
+    "paginate-react",
+    "paginate-vue-js",
+    "paginate-Angular-js"
+  ],
+  "author": "MD ARIF KHAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arifkhan-silicornya/react-perfect-paginate/issues"
+  },
+  "homepage": "https://github.com/arifkhan-silicornya/react-perfect-paginate#readme"
+}
